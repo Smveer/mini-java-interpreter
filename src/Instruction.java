@@ -1,3 +1,3 @@
 public abstract class Instruction {
-    abstract void run();
+    abstract void run(Context context);
 }
